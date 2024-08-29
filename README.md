@@ -4,6 +4,8 @@
 #### 描述信息
 - 此项目为Magisk模块，可在Magisk Manager App或第三方Recovery（本质还是依赖Magisk环境）中刷入。
 
+此项目已经发现了另有大佬维护，见 https://www.coolapk.com/feed/56596573 ，此项目暂停维护。
+
 #### 自定义扩展
 - `./XiaomiCTSPass/props/`下的文件名格式为`机型代号_sdk及版本号.prop`，以安卓11（SDK版本号为30）的小米10机型为例，扩展文件名应为`umi_sdk30.prop`。
 - 从小米设备的稳定版固件中提取`ro.build.fingerprint` `ro.build.description` `ro.build.version.security_patch`属性，具体参考`./XiaomiCTSPass/props/`下的文件内容。
