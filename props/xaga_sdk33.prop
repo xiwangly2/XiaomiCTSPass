@@ -1,0 +1,3 @@
+ro.build.fingerprint=Redmi/xaga/xaga:13/TP1A.220624.014/V14.0.6.0.TLOCNXM:user/release-keys
+ro.build.description=xaga-user 13 TP1A.220624.014 V14.0.6.0.TLOCNXM release-keys
+ro.build.version.security_patch=2023-09-01

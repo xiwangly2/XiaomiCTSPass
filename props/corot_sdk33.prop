@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/corot/corot:13/TP1A.220624.014/V14.0.12.0.TMLCNXM:user/release-keys
+ro.build.description=corot-user 13 TP1A.220624.014 V14.0.12.0.TMLCNXM release-keys
+ro.build.version.security_patch=2023-09-01

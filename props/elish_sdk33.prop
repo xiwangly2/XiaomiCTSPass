@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/elish/elish:13/TKQ1.221013.002/V14.0.4.0.TKYCNXM:user/release-keys
+ro.build.description=elish-user 13 TKQ1.221013.002 V14.0.4.0.TKYCNXM release-keys
+ro.build.version.security_patch=2023-05-01

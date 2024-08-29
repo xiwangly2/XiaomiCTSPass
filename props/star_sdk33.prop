@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/star/star:13/TKQ1.220829.002/V14.0.11.0.TKACNXM:user/release-keys
+ro.build.description=star-user 13 TKQ1.220829.002 V14.0.11.0.TKACNXM release-keys
+ro.build.version.security_patch=2023-09-01

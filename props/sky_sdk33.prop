@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/sky/sky:13/TKQ1.221114.001/V14.0.2.0.TMWCNXM:user/release-keys
+ro.build.description=sky-user 13 TKQ1.221114.001 V14.0.2.0.TMWCNXM release-keys
+ro.build.version.security_patch=2023-06-01

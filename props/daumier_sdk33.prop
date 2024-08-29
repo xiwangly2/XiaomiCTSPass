@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/daumier/daumier:13/TP1A.220624.014/V14.0.8.0.TLGCNXM:user/release-keys
+ro.build.description=daumier-user 13 TP1A.220624.014 V14.0.8.0.TLGCNXM release-keys
+ro.build.version.security_patch=2023-05-01

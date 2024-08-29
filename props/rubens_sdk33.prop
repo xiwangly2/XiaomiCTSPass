@@ -1,0 +1,3 @@
+ro.build.fingerprint=Redmi/rubens/rubens:13/TP1A.220624.014/V14.0.8.0.TLNCNXM:user/release-keys
+ro.build.description=rubens-user 13 TP1A.220624.014 V14.0.8.0.TLNCNXM release-keys
+ro.build.version.security_patch=2023-10-01
